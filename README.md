@@ -3,6 +3,24 @@ This repository contains all the java programming assignments for the CSE1007 la
 
 ## 1st Assignment
 1. Write a Java program to perform basic arithmetic operations of two numbers. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/arithmetic_operation.java)
-2. Write a Java program to perform operations (Addition, Subtraction, Multiplication, Division) without using a third variable.
-3. Write a Java program to perform Multiplication of two numbers without using * operator.
-4. Write a Java program to check if the year is leap year or not.
+2. Write a Java program to perform operations (Addition, Subtraction, Multiplication, Division) without using a third variable. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/operations_without_third_variable.java)
+3. Write a Java program to perform Multiplication of two numbers without using * operator. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/multiplication.java)
+4. Write a Java program to check if the year is leap year or not. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/leap_year.java)
+5. Write a Java program to print a multiplication Table (1 to 15). [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/multiplication_table.java)
+6. Write a Java Program to print ASCII Table. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/ASCII_Table.java)
+7. Write a Java program to Calculate and Display the sum of 4 digits numbers. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/sum_of_four_digits.java)
+8. Write a Java program to Obtain the sum of the first and last digit of a four digit number. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/sum_first_last.java)
+9. Write a Java program to check whether a given number is Armstrong or not. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Armstrong.java)
+10. Write a Java program to print Fibonacci Series. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Fibonacci_Series.java)
+11. Write a Java program to print Factorial of Number. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Factorial.java)
+12. Write a Java program to swap two numbers using a third variable. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Swap_two_numbers.java)
+13. Write a Java program to swap two numbers without using a third variable. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Swap_withoud_third_variable.java)
+14. Write a Java program to calculate the power of Number. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Power.java)
+15. Write a Java program to find out all odd numbers divisible by 5 from the range of integers 200 to 800. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Odd_numbers.java)
+16. Write a Java Program to read the number and check whether it is divisible by 3 and 5. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Divisible_by_3_and_5.java)
+17. Write a Java Program to display Subject Name based on room number. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Subject_based_room.java)
+    > If the user enters 604 then display Java Programming, If the user enters 605 then display Python programming for any other input display Invalid input to the user.
+18. Write a Java Program to print the sum of first n numbers. If n is 3 then print the sum of 1+2+3 to the user. Get n from the user. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Sum_of_first_n_numbers.java)
+19. Write a Java Program to print the sum of the series 1²+2²+3² up to n terms. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Sum_of_series.java)
+20. Write a Java Program to print the multiplication table by getting the n from the user. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Multiplication_table_user.java)
+21. Write a Java Program to provide the option of adding two numbers to the user until the user wants to exit. [Sokution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Add_until_user_exists.java)
