@@ -75,11 +75,12 @@ minimum value, third should be second maximum, fourth second be second minimum a
 16. Write a Java program to multiply two matrices. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn16.java)
 17. Write a Java program to Calculate diagonal elements. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn17.java)
 18. Write a Java Program to print this pattern for n lines [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn18.java)
-1
-12
-123
-1234
-1234
-123
-12
-1
+    > 1 /
+    > 12 /
+    > 123 /
+    > 1234 /
+    > 1234 /
+    > 123 /
+    > 12 /
+    > 1
+
