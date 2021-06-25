@@ -19,8 +19,20 @@ This repository contains all the java programming assignments for the CSE1007 la
 15. Write a Java program to find out all odd numbers divisible by 5 from the range of integers 200 to 800. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Odd_numbers.java)
 16. Write a Java Program to read the number and check whether it is divisible by 3 and 5. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Divisible_by_3_and_5.java)
 17. Write a Java Program to display Subject Name based on room number. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Subject_based_room.java)
-    > If the user enters 604 then display Java Programming, If the user enters 605 then display Python programming for any other input display Invalid input to the user.
+    >Ex: If the user enters 604 then display Java Programming, If the user enters 605 then display Python programming for any other input display Invalid input to the user.
 18. Write a Java Program to print the sum of first n numbers. If n is 3 then print the sum of 1+2+3 to the user. Get n from the user. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Sum_of_first_n_numbers.java)
 19. Write a Java Program to print the sum of the series 1²+2²+3² up to n terms. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Sum_of_series.java)
 20. Write a Java Program to print the multiplication table by getting the n from the user. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Multiplication_table_user.java)
 21. Write a Java Program to provide the option of adding two numbers to the user until the user wants to exit. [Sokution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/1st%20Assignment/Add_until_user_exists.java)
+
+## 2nd Assignment
+1. Write a Java program to print the third largest number in an array. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn1.java)
+2. Read the following details of ‘n’ students using Scanner class methods and display the same. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn2.java)
+    > Registration number ( String)
+    > Name (String that may contain first name, middle name and last name)
+    > CGPA (Floating point number)
+    > Programme Name(String)
+    > School Name (String with multiple words)
+    > Proctor Name (String that may contain first, middle and last names)
+3.  Write a Java program to sort an array of positive integers of a given array, in the sorted array the value of the first element should be maximum, second value should be
+minimum value, third should be second maximum, fourth second be second minimum and so on. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn3.java)
