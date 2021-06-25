@@ -65,4 +65,4 @@ minimum value, third should be second maximum, fourth second be second minimum a
     > Sample Output: \
     > Original Array: [20, 30, 40] \
     > New array after swapping the first and last elements: [40, 30, 20]
-13. 
+13. Write a Java program to find the largest element between first, last, and middle values from an array of integers (even length). [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn13.java)
