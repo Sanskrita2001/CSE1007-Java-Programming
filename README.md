@@ -51,5 +51,18 @@ minimum value, third should be second maximum, fourth second be second minimum a
     > Sample Output: \
     > Array1: [50, -20, 0] \
     > Array2: [5, -50, 10] \
-    > New Array: [50, 10] \
-9.  
+    > New Array: [50, 10] 
+9.  Write a Java program to test that a given array of integers of length 2 contains a 4 or a 7. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn9.java)
+10. Write a Java program to rotate an array (length 3) of integers in left direction. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn10.java) 
+    > Sample Output: \
+    > Original Array: [20, 30, 40] \
+    > Rotated Array: [30, 40, 20]
+11. Write a Java program to get the larger value between the first and last element of an array (length 3) of integers. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn11.java)
+    > Sample Output: \
+    > Original Array: [20, 30, 40] \
+    > Larger value between first and last element: 40
+ 12. Write a Java program to swap the first and last elements of an array (length must be at least 1) and create a new array. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn12.java)
+    > Sample Output: \
+    > Original Array: [20, 30, 40] \
+    > New array after swapping the first and last elements: [40, 30, 20]
+13. 
