@@ -83,4 +83,10 @@ minimum value, third should be second maximum, fourth second be second minimum a
     > 123 \
     > 12 \
     > 1
-
+19. Write a program to demonstrate the knowledge of students in multidimensional arrays and looping constructs. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn19.java)
+    > Eg: If there are 4 batches in BTech - “CSE1007” course, read the count of the slow learners (who have scored <25) in each batch. Tutors should be assigned in the ratio of 1:4 (For every 4 slow learners, there should be one tutor). Determine the number of tutors for each batch. Create a 2-D jagged array with 4 rows to store the count of slow learners in the 4 batches. The number of columns in each row should be equal to the number of groups formed for that particular batch ( Eg., If there are 23 slow learners in a batch, then there should be 6 tutors and in the jagged array, the corresponding row should store 4, 4, 4, 4, 4,3). Use for-each loop to traverse the array and print the details. Also print the number of batches in which all tutors have exactly 4 students.
+20. There are 12 10 and 8 instructional days for a particular course before CAT-1, CAT-2 and Term End examinations respectively. Declare a 2- dimensional jagged array with 3
+rows to store the entire attendance details of a single student in that course, where in the first row must have 12 elements, second row- 10 elements and third row- 8 elements.
+Assuming the array elements contain any of the 2 values ‘1’ / ‘0’ denoting Present/Absent, Write a Java program to evaluate the attendance percentage for his CAT-1, CAT-2 and Term-end period (all the two terms taken together). Use enhanced-for loops to traverse the array. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/JaggedArray.java)
+21. Write a Java program with class definition for ‘Employee’ with name, emp-id, and salary and required methods as members of the class. Create an array of objects of ‘emp’
+for ‘n’ number of employees in VIT. Write a Java program to display the name and emp-id of employees who have a salary less than INR100000. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/Employee.java)
