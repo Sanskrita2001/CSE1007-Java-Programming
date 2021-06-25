@@ -28,11 +28,11 @@ This repository contains all the java programming assignments for the CSE1007 la
 ## 2nd Assignment
 1. Write a Java program to print the third largest number in an array. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn1.java)
 2. Read the following details of ‘n’ students using Scanner class methods and display the same. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn2.java)
-    > Registration number ( String)
-    > Name (String that may contain first name, middle name and last name)
-    > CGPA (Floating point number)
-    > Programme Name(String)
-    > School Name (String with multiple words)
-    > Proctor Name (String that may contain first, middle and last names)
+    - Registration number ( String)
+    - Name (String that may contain first name, middle name and last name)
+    - CGPA (Floating point number)
+    - Programme Name(String)
+    - School Name (String with multiple words)
+    - Proctor Name (String that may contain first, middle and last names)
 3.  Write a Java program to sort an array of positive integers of a given array, in the sorted array the value of the first element should be maximum, second value should be
 minimum value, third should be second maximum, fourth second be second minimum and so on. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn3.java)
