@@ -36,3 +36,20 @@ This repository contains all the java programming assignments for the CSE1007 la
     - Proctor Name (String that may contain first, middle and last names)
 3.  Write a Java program to sort an array of positive integers of a given array, in the sorted array the value of the first element should be maximum, second value should be
 minimum value, third should be second maximum, fourth second be second minimum and so on. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn3.java)
+4. Write a Java program to separate even and odd numbers of a given array of integers. Put all even numbers first, and then odd numbers. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn4.java)
+5. Write a Java program to convert a binary number to decimal number and to decimal number to binary number. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn5.java)
+6. Write a Java program to test if the first and the last element of an array of integers are the same. The length of the array must be greater than or equal to 2. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn6.java)
+    > Test Data: array = 50, -20, 0, 30, 40, 60, 10
+    > Sample Output: False
+7. Write a Java program to test if the first and the last element of two array of integers are the same. The length of the array must be greater than or equal to 2. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn7.java)
+    > Test Data: array1 = 50, -20, 0, 30, 40, 60, 12
+    > array2 = 45, 20, 10, 20, 30, 50, 11
+    > Sample Output: False
+8. Write a Java program to create a new array of length 2 from two arrays of integers with three elements and the new array will contain the first and last elements from the two arrays. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn8.java)
+    > Test Data: array1 = 50, -20, 0
+    > array2 = 5, -50, 10
+    > Sample Output:
+    > Array1: [50, -20, 0]
+    > Array2: [5, -50, 10]
+    > New Array: [50, 10]
+9.  
