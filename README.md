@@ -61,8 +61,12 @@ minimum value, third should be second maximum, fourth second be second minimum a
     > Sample Output: \
     > Original Array: [20, 30, 40] \
     > Larger value between first and last element: 40
- 12. Write a Java program to swap the first and last elements of an array (length must be at least 1) and create a new array.[Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn12.java)
+ 12. Write a Java program to swap the first and last elements of an array (length must be at least 1) and create a new array. [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn12.java)
     > Sample Output: \
     > Original Array: [20, 30, 40] \
     > New array after swapping the first and last elements: [40, 30, 20]
 13. Write a Java program to find the largest element between first, last, and middle values from an array of integers (even length). [Solution](https://github.com/Sanskrita2001/CSE1007-Java-Programming/blob/main/2nd%20Assignment/qn13.java)
+    > Sample Output: \
+    > Original Array: [20, 30, 40, 50, 67] \ 
+    > Largest element between first, last, and middle values: 67 \
+14.  
